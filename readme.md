@@ -35,5 +35,6 @@ ____
 ```
   ./add_local_project.sh <project_name>
 ```
+5) Start local web server
 
-5) Open the browser and go to http://<project_name>.local
+6) Open the browser and go to http://<project_name>.local
